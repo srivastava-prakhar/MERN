@@ -1,0 +1,12 @@
+.emoji-picker-react {
+  background-color: #080420 !important;
+  border-radius: 10px;
+}
+
+.emoji-picker-react .epr-body {
+  background-color: #080420 !important;
+}
+
+.emoji-picker-react .epr-search-container {
+  background-color: #0d0630 !important;
+}
